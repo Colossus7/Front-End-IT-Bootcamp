@@ -1,7 +1,3 @@
-# Front-End-IT-Bootcamp
-Projects and exercises completed during the BINUS IT Bootcamp focusing on Front-End Development.
-
-
 # Front-End IT Bootcamp
 
 Welcome! This repository documents my journey through the free Front-End IT Bootcamp provided by BINUS. It includes all exercises, mini-projects, and notes based on real-world front-end development topics.
